@@ -1,0 +1,16 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.formatOnSave": true,
+  "editor.wordWrapColumn": 120,
+  "editor.renderWhitespace": "boundary",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.fontFamily": "'Cascadia Code', 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "'Hack NF'",
+  "security.workspace.trust.enabled": false,
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+}
