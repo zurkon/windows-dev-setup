@@ -2,7 +2,6 @@
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-PoshPrompt -Theme minimal
-# Set-PoshPrompt -Theme takuya
 
 # Icons
 Import-Module -Name Terminal-Icons
