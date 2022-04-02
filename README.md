@@ -171,6 +171,8 @@ Documents\PowerShell\Modules\oh-my-posh\themes
 
 paste the **`minimal.omp.json`** file.
 
+> **Obs**: `minimal.omp.json` is located in `.config\terminal` folder on this repo.
+
 Open `$PROFILE` file again, then add:
 
 ```
