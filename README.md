@@ -10,12 +10,17 @@ Download the `Hack` font from [Nerd Fonts](https://github.com/ryanoasis/nerd-fon
 
 > Otherwise you will see some gibberish on your terminal.
 
-> Install all `Windows` compatible .ttf files.
+> Install all `Windows compatible` .ttf files.
 
 ## Install Powershell Core
-Download `Powershell Core` from this [link](https://github.com/PowerShell/PowerShell/releases)
+
+Download the latest release of `Powershell Core` from [Github Repo](https://github.com/PowerShell/PowerShell).
 
 ## Install Windows Terminal
+
+You can download the `Windows Terminal` from [Microsoft Store](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701).
+
+Or you can download using `Invoke-WebRequest` command:
 
 ```powershell
 Invoke-WebRequest -Uri https://github.com/microsoft/terminal/releases/download/v1.5.10411.0/Microsoft.WindowsTerminal_1.5.10411.0_8wekyb3d8bbwe.msixbundle -OutFile WindowsTerminal.appx -UseBasicParsing
@@ -64,7 +69,7 @@ My Windows Terminal configuration for References:
     "profiles": {
         "defaults": {
             // Don't forget to change "backgroundImage"
-            "backgroundImage": "C:\\Users\\maill\\OneDrive\\Pictures\\User Images\\terminal.jpg",
+            "backgroundImage": "D:\\User Images\\terminal.jpg",
             "backgroundImageOpacity": 0.5,
             "colorScheme": "One Half Dark",
             "font": {
