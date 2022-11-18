@@ -8,9 +8,9 @@
   "editor.wordWrapColumn": 120,
   "editor.renderWhitespace": "boundary",
   "editor.bracketPairColorization.enabled": true,
-  "editor.fontFamily": "'Cascadia Code', 'Courier New', monospace",
-  "terminal.integrated.fontFamily": "'Hack NF'",
+  "editor.fontFamily": "Cascadia Code",
+  "terminal.integrated.fontFamily": "'MesloLGS NF'",
   "security.workspace.trust.enabled": false,
-  "javascript.format.semicolons": "insert",
-  "typescript.format.semicolons": "insert",
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove",
 }
